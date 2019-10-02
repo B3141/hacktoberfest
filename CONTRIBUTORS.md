@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Ben Chung](https://github.com/B3141)
+- Place: Cambridge, UK
+- Bio: Student
+- GitHub: [B3141](https://github.com/B3141)
